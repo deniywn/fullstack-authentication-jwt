@@ -1,0 +1,7 @@
+# Backend
+auth-backend/node_modules/
+# Umum
+.DS_Store
+*.log
+.idea/
+.vscode/
