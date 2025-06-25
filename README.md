@@ -1,5 +1,3 @@
-# fullstack-authentication-jwt
-
 # Fullstack Authentication System 🔐  
 
 
